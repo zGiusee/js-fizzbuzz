@@ -8,3 +8,5 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 BONUS:
 ° Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
 
+DIVISIONE IN PROBLEMI E SOTTO PROBLEMI:
+
