@@ -10,3 +10,12 @@ BONUS:
 
 DIVISIONE IN PROBLEMI E SOTTO PROBLEMI:
 
+1 - Creo un algoritmo che stampi i numeri da 1 a 100;
+2 - Uso l'operatore resto per dividere i mmultipli di 5 di 3 e di entrambi;
+3a - ? Numero multiplo sia di 3 che di 5;
+    5a - : ? Numero multiplo solo di 3;
+        6a - : ? Numero  multiplo di 5;
+        6b - Stampo la parola Buzz;
+    5b - Stampo la parola Fizz;
+3b - Allora stampa la parola FizzBuzz;
+4 - Stampo il numero normale;
