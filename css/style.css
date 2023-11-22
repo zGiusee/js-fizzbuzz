@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(12, 12, 12);
+}
+
+ul li{
+    color: #fff;
+    margin-left: 30px;
+    padding: 3px 0px;
+}
